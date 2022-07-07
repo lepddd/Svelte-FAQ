@@ -1,0 +1,2 @@
+# Svelte-FAQ
+Simple FAQ
